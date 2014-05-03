@@ -1,0 +1,5 @@
+package study.design.pattern.chap4;
+
+public abstract class Product {
+	public abstract void use();
+}
